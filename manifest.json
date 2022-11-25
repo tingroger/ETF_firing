@@ -1,0 +1,22 @@
+{
+  "name": "Tarkov Ballistics Calculator",
+  "short_name": "Ballistics Calculator",
+  "description": "Interactive Escape from Tarkov ballistics calculator",
+  "icons": [
+    {
+      "src": "/images/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "800x800"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#080808",
+  "theme_color": "#151515",
+  "display": "minimal-ui",
+  "scope": "/"
+}
